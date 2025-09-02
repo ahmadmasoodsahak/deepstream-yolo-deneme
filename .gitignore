@@ -1,1 +1,4 @@
 videolar/
+*.pt
+*.onnx
+*.engine
