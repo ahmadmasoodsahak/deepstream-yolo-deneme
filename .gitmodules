@@ -1,0 +1,4 @@
+[submodule "DeepStream-Yolo"]
+	path = DeepStream-Yolo
+	url = https://github.com/ahmadmasoodsahak/DeepStream-Yolo.git
+	branch = master
